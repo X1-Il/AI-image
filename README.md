@@ -13,7 +13,7 @@ git clone https://github.com/X1-Il/AI-image.git
 2. Navigate to project directory
 
 ````sh
-cd openai-app_image-generator
+cd AI-image
 ````
 
 3. Install client dependencies
