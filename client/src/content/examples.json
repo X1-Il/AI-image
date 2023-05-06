@@ -1,0 +1,67 @@
+{
+    "naughtyDog": {
+        "title": "Naughty Fox",
+        "src": "./images/examples/image1.jpg",
+        "prompt": "Fox in the forest at the afternoon",
+        "options": {
+            "art": ["oil painting"],
+            "ilumination": ["natural light"],
+            "perspective": ["3rd person"],
+            "style": ["realistic"]
+        }
+    },
+    "glassBall": {
+        "title": "Glass Ball",
+        "src": "./images/examples/image2.jpg",
+        "prompt": "Glass ball with a reflection of a mountain",
+        "options": {
+            "art": ["hyperrealism"],
+            "ilumination": ["natural light"],
+            "perspective": ["photography"]
+        }
+    },
+    "childLight": {
+        "title": "Child Light",
+        "src": "./images/examples/image3.jpg",
+        "prompt": "A child with a light in the dark",
+        "options": {
+            "art": ["oil painting"],
+            "ilumination": ["natural light"],
+            "perspective": ["3rd person"],
+            "style": ["realistic"]
+        }
+    },
+    "Robot": {
+        "title": "Robot",
+        "src": "./images/examples/image4.png",
+        "prompt": "A robot in the dark",
+        "options": {
+            "art": ["oil painting"],
+            "ilumination": ["natural light"],
+            "perspective": ["3rd person"],
+            "style": ["realistic"]
+        }
+    },
+    "abstractWorld": {
+        "title": "Abstract World",
+        "src": "./images/examples/image5.png",
+        "prompt": "A world of abstract",
+        "options": {
+            "art": ["oil painting"],
+            "ilumination": ["natural light"],
+            "perspective": ["3rd person"],
+            "style": ["realistic"]
+        }
+    },
+    "AbstractHero": {
+        "title": "Abstract Hero",
+        "src": "./images/examples/image6.jpg",
+        "prompt": "A hero of abstract",
+        "options": {
+            "art": ["oil painting"],
+            "ilumination": ["natural light"],
+            "perspective": ["3rd person"],
+            "style": ["realistic"]
+        }
+    }
+}
